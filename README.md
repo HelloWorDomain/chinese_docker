@@ -12,7 +12,7 @@ Docker 中文指南
 
 演示站点:[http://docker.widuu.com](http://docker.widuu.com)
 
-##进度
+## 进度
 
 >现在 Docker 的安装篇基本完成，但是也是会随时更新和修改，请大家注意。其它篇正在更新中...，灰色的代表未翻译～～
 
@@ -33,13 +33,13 @@ Docker 中文指南
 6. 然后到 coding 网站的该 git 远程仓库的 `my-new-feature` 分支下发起 Pull Request
 
 
-##TODO
+## TODO
 
 - 修改以前的翻译错误
 - 增加官方新的文章
 - 修改过时的信息或者说官方文档已经改变的
 
-##其他信息
+## 其他信息
 
 Coding地址：[https://coding.net/u/widuu/p/chinese_docker/git](https://coding.net/u/widuu/p/chinese_docker/git)
 
@@ -50,7 +50,7 @@ blog地址：[http://www.widuu.com](http://www.widuu.com)
 新浪微博：[http://weibo.com/widuu](http://weibo.com/widuu)
 
 
-##授权许可
+## 授权许可
 
 除特别声明外，本书中的内容使用[CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)（创作共用 署名-相同方式共享3.0许可协议）授权 。
 
